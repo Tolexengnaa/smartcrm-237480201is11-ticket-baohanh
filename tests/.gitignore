@@ -1,0 +1,24 @@
+
+# Bí mật KHÔNG BAO GIỜ commit www
+.env
+
+# Dependencies & build
+node modules/
+bin/
+obj/
+target/
+dist/
+_pycache
+.venv/
+venv/
+
+# Dữ liệu & model lớn
+data/raw/
+models/*.pk1 M
+models/*.pt
+
+# IDE / OS
+vscode/
+.idea/
+DS Store
+Thumbs.db
