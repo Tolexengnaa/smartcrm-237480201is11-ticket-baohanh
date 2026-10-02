@@ -46,10 +46,10 @@
         <mxCell id="a_ql" value="Quản lý&lt;br&gt;cửa hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="490" width="30" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="a_timer" value="Bộ hẹn giờ&lt;br&gt;(thời gian)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;" vertex="1" parent="1">
+        <mxCell id="a_timer" value="Bộ hẹn giờ&lt;br&gt;(thời gian)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#cccccc;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="30" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="a_sms" value="Cổng SMS/Zalo&lt;br&gt;(hệ thống ngoài)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;" vertex="1" parent="1">
+        <mxCell id="a_sms" value="Cổng SMS/Zalo&lt;br&gt;(hệ thống ngoài)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#cccccc;" vertex="1" parent="1">
           <mxGeometry x="900" y="360" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="a_ktv" value="Kỹ thuật viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
