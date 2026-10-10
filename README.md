@@ -12,7 +12,7 @@
 | Luồng nghiệp vụ | **L2 – Tiếp nhận và phân loại yêu cầu bảo hành** |
 | Track | **SE** (Software Engineering) |
 | Sinh viên | `MINGBOUPPHA XAYKHAM` – `237480201IS11` – `261_71ITGR40203_03` |
-| Giảng viên | `Nguyễn Minh Tân` |
+| Giảng viên | `Nguyễn Minh Tân`  |
 
 Mekong Mobile tiếp nhận yêu cầu bảo hành thiết bị tại cửa hàng nhưng còn ghi chép thủ công, nên khó biết phiếu nào đang chờ, phiếu nào trễ hạn và ai đang xử lý. Dự án số hoá đoạn từ lúc khách mang thiết bị đến cửa hàng cho tới khi **phiếu bảo hành** được phân loại, đặt **mức ưu tiên** và giao cho **kỹ thuật viên**.
 
