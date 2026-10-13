@@ -1,6 +1,6 @@
 # warranty-app – Smart CRM · Luồng L2: Tiếp nhận và phân loại yêu cầu bảo hành
 
-Đồ án học phần **Chuyên đề tốt nghiệp 1** – Trường Đại học Văn Lang, Khoa Công nghệ Thông tin – Học kỳ 1, năm học 2026 – 2027.
+Đồ án học phần **Chuyên đề tốt nghiệp 1** – Trường Đại học Văn Lang, Khoa Công nghệ Thông tin – Học kỳ 1, năm học 2026 – 2027..
 
 ---
 
